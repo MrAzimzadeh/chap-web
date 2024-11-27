@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "My App",
+  "@appTitle": {},
+  "home": "Home",
+  "@home": {},
+  "about": "About",
+  "@about": {},
+  "contact": "Contact",
+  "@contact": {},
+  "services": "Services",
+  "@services": {},
+  "blog": "Blog",
+  "@blog": {},
+  "started": "Started",
+  "@started": {}
+}

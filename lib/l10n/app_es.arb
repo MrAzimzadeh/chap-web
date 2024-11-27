@@ -1,0 +1,17 @@
+{
+    "@@locale": "es",
+    "appTitle": "Benim Uygulamam",
+    "@appTitle": {},
+    "home": "Ana Sayfa",
+    "@home": {},
+    "about": "Hakkında",
+    "@about": {},
+    "contact": "İletişim",
+    "@contact": {},
+    "services": "Hizmetler",
+    "@services": {},
+    "blog": "Blog",
+    "@blog": {},
+    "started": "Başladı",
+    "@started": {}
+  }
